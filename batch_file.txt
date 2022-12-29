@@ -1,0 +1,1 @@
+path /bin /usr/bin & pwd & touch shell.txt & echo "output update" > shell & cat shell.txt  & pwd > output & cat output & touch grass.txt & echo "hello howard" > grass.txt & pwd & ls & cat grass.txt
